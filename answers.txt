@@ -10,4 +10,8 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging essentially applies the changes made on a certain feature branch to the current branch it is on (like how we combined q1 into our main branch). It is able to keep the history (all commits) of both branches and show the path each branch took in order to come together. However, rebasing essentially "replays" the changes that we made from a feature branch (like q3) on another branch (like main). This changes the order of our commits and makes it look like our changes are most recent.
 
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to getting more experience with the Pandas library and creating appealing visuals (possibly with matplotlib or seaborn)
+
 
