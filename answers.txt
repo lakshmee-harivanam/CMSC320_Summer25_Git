@@ -1,0 +1,4 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science could be applied to the medical field to help doctors detect dieases (like diabetes) early. For example, data scientistis can look at paitent data (like age, weight, blood sugar levels) and apply statistical modeling/analysis to figure out who could get sick in the future.
+
